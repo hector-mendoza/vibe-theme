@@ -1,0 +1,62 @@
+{
+  "publisher": "HectorMendoza",
+  "name": "vibe-theme",
+  "displayName": "Vibe Theme",
+  "description": "A modern theme for devs who keep looking for good, fancy but not that fancy themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "icon": "image.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hector-mendoza/vibe-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vibe Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vibe Theme-color-theme.json"
+      },
+      {
+        "label": "Vibe Theme - Mood Mode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mood-mode-dark-color-theme.json"
+      },
+      {
+        "label": "Vibe Theme - Transformative Teal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/transformative-teal-color-theme.json"
+      },
+      {
+        "label": "Vibe Theme - AI Iridescence",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ai-iridescence-color-theme.json"
+      },
+      {
+        "label": "Vibe Theme - Warm Biophilic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/warm-biophilic-color-theme.json"
+      },
+      {
+        "label": "Vibe Theme - Soft-Tech Pastel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soft-tech-pastel-color-theme.json"
+      },
+      {
+        "label": "Vibe Theme - Midnight Moss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-moss-color-theme.json"
+      },
+      {
+        "label": "Vibe Theme - Arid Stone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arid-stone-color-theme.json"
+      }
+    ]
+  }
+}
