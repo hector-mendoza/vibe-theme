@@ -3,7 +3,7 @@
   "name": "vibe-theme",
   "displayName": "Vibe Theme",
   "description": "A modern theme for devs who keep looking for good, fancy but not that fancy themes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.120.0"
   },
