@@ -1,40 +1,37 @@
 # Vibe Theme
 
-A collection of 7 dark themes for Visual Studio Code built around 2026's most relevant design trends — from SaaS dashboards to earthy, organic palettes.
+[![VS Code Marketplace Version](https://vsmarketplacebadges.dev/version/HectorMendoza.vibe-theme.svg)](https://marketplace.visualstudio.com/items?itemName=HectorMendoza.vibe-theme)
+[![VS Code Marketplace Installs](https://vsmarketplacebadges.dev/installs/HectorMendoza.vibe-theme.svg)](https://marketplace.visualstudio.com/items?itemName=HectorMendoza.vibe-theme)
 
-![Vibe Theme Banner](image.png)
+Vibe Theme is a family of dark themes for Visual Studio Code built around 2026's most relevant design trends — from SaaS dashboards to earthy, organic palettes.
 
-## Themes
+![Vibe Theme Preview](./vibe-themes.png)
 
-### 🟣 Mood Mode Dark
-The 2026 standard for dashboards and SaaS. Deep zinc blacks with violet highlights and cyan teal accents — designed dark from the ground up, not adapted from light.
+## Start Here
 
-### 🩵 Transformative Teal
-Inspired by WGSN/Coloro's Color of the Year 2026. Deep navy base with transformative teal and sky blue accents — clean, resilient, and Earth-forward.
+- `Mood Mode Dark`: deep zinc blacks with violet and cyan — the 2026 SaaS dashboard standard.
+- `Transformative Teal`: deep navy with teal and sky blue — clean, resilient, Earth-forward.
+- `AI Iridescence`: near-void dark with fuchsia-to-violet iridescence and emerald pops.
+- `Warm Biophilic`: charcoal browns with terracotta and amber — organic and easy on the eyes.
+- `Soft-Tech Pastel`: deep purple-black with lavender and rose — calm focus for long sessions.
+- `Midnight Moss`: forest blacks with acid moss green and sage — strong contrast, terminal feel.
+- `Arid Stone`: desert canyon darks with electric coral and sand dune accents.
 
-### ✨ AI Iridescence
-For tech and launch pages. A near-void dark background with fuchsia-to-violet iridescent highlights and emerald pops — computational and hyperrealistic.
+## Install
 
-### 🟠 Warm Biophilic
-Charcoal browns and warm obsidian replace harsh blacks. Terracotta orange and amber ochre accents create an organic, cozy feel that's easy on the eyes.
+1. VS Code Marketplace: <https://marketplace.visualstudio.com/items?itemName=HectorMendoza.vibe-theme>
+2. VS Code Quick Open: `ext install HectorMendoza.vibe-theme`
 
-### 🪻 Soft-Tech Pastel
-Soft lavender and rose pastels over a deep purple-black background. Sophisticated contrast without visual fatigue — calm focus for long sessions.
+## Shipped Themes
 
-### 🌿 Midnight Moss
-Deep forest blacks with acid moss green and sage accents. Strong contrast that feels like a dev terminal in the middle of the woods.
-
-### 🪨 Arid Stone
-Desert canyon darks with electric coral and sand dune accents. Bold and warm — a palette inspired by canyon landscapes.
-
-## Installation
-
-1. Open **Extensions** in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-2. Search for `Vibe Theme`
-3. Click **Install**
-4. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
-5. Select **Preferences: Color Theme**
-6. Choose any of the **Vibe Theme** variants
+- `Vibe Theme`
+- `Vibe Theme - Mood Mode Dark`
+- `Vibe Theme - Transformative Teal`
+- `Vibe Theme - AI Iridescence`
+- `Vibe Theme - Warm Biophilic`
+- `Vibe Theme - Soft-Tech Pastel`
+- `Vibe Theme - Midnight Moss`
+- `Vibe Theme - Arid Stone`
 
 ## Color Palettes
 
@@ -51,3 +48,9 @@ Desert canyon darks with electric coral and sand dune accents. Bold and warm —
 ## Feedback & Contributions
 
 Found a bug or have a suggestion? Open an issue on [GitHub](https://github.com/hector-mendoza/vibe-theme).
+
+## Links
+
+- Source: <https://github.com/hector-mendoza/vibe-theme>
+- Issues: <https://github.com/hector-mendoza/vibe-theme/issues>
+- Changelog: <https://github.com/hector-mendoza/vibe-theme/blob/main/CHANGELOG.md>
